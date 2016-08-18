@@ -1,0 +1,9 @@
+Building PedCoin
+
+See doc/readme-qt.rst for instructions on building PedCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PedCoin.
+
+See doc/build-*.txt for instructions on building pedcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PedCoin.
